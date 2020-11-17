@@ -19,43 +19,43 @@ Analyze the New York City 'Citi Bike' trip data that has been released to the pu
     - Blue   = Female
     - Red    = Unknown
   
-  !["Dashboard"](./Images/dashboard.png "NYC story dashboard")
+  !["Dashboard"](./resources/dashboard.png "NYC story dashboard")
   
   
 - Utilization
   - Bike utilization shows how much a particular bike is utilized
   
-  !["Utilization"](./Images/bike_utilization.png "Bike Utilization")
+  !["Utilization"](./resources/bike_utilization.png "Bike Utilization")
   
   
 - Times for Users
   - This shows us that a large number of bikes are utilized around 5 am.
   
-  !["Times for Users"](./Images/checkout_times_for_users.png "Times for Users")
+  !["Times for Users"](./resources/checkout_times_for_users.png "Times for Users")
   
   
 - Times for Users by Gender
   - Furthermore we see that more men use the bikes in morning than women.
   
-  !["Times for Users by Gender"](./Images/checkout_times_for_users_by_gender.png "Times for Users by Gender")
+  !["Times for Users by Gender"](./resources/checkout_times_for_users_by_gender.png "Times for Users by Gender")
   
   
 - Trips by weekdays by Hour
   - More trips were recorded during mornings between 4 am and 10 am and afternoons between 4 pm and 8 pm. Friday shows more trips after lunch. Saturday and Sunday show more trips between 10 am and 8 pm.
   
-  !["Trips by weekdays by Hour"](./Images/trips_by_weekdays_by_hour.png "Trips by weekdays by Hour")
+  !["Trips by weekdays by Hour"](./resources/trips_by_weekdays_by_hour.png "Trips by weekdays by Hour")
   
   
 - Trips by weekdays by Hour by Gender
   - Even with splitting the data by gender shows the same results.
   
-  !["Trips by weekdays by Hour by Gender"](./Images/trips_by_weekdays_by_hour_by_gender.png "Trips by weekdays by Hour by Gender")
+  !["Trips by weekdays by Hour by Gender"](./resources/trips_by_weekdays_by_hour_by_gender.png "Trips by weekdays by Hour by Gender")
   
   
 - Trips by weekdays by Gender
   - More trips were recorded by subscribers as opposed to customers.
   
-  !["Trips by weekdays by Gender"](./Images/trips_by_weekdays_by_gender.png "Trips by weekdays by Gender")
+  !["Trips by weekdays by Gender"](./resources/trips_by_weekdays_by_gender.png "Trips by weekdays by Gender")
   
   
 - Tablaeu
