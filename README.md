@@ -72,3 +72,13 @@ Based on the analysis done following additional visualizations are suggested.
  1. Analyze the return on investment for the whole year.
  2. Analyze the profitable business model customers vs subscribers.
  
+### Some Additional Visual Information
+
+  !["Top_Ending_Locations"](./resources/Top_Ending_Locations.png "Top_Ending_Locations")
+  
+  !["Average_Trip_Duration"](./resources/Average_Trip_Duration.png "Average_Trip_Duration")
+  
+  !["Bike_Utilization"](./resources/Bike_Utilization.png "Bike_Utilization")
+  
+  !["Bike_Repairs"](./resources/Bike_Repairs.png "Bike_Repairs")
+
