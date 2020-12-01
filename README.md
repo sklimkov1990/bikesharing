@@ -61,7 +61,7 @@ Analyze the New York City 'Citi Bike' trip data that has been released to the pu
 - Tablaeu
   - A Full story of the above information is stored in the link below.
   
-  ["Tablaeu story link"](https://public.tableau.com/profile/subbarao.bellamkonda#!/vizhome/Module14ChallengeSBB/NYCStory?publish=yes)
+  ["Tablaeu story link"](https://public.tableau.com/profile/sergei.klimkov#!/vizhome/Module14ChallengeSBB_16067833153290/NYCStory)
 
 
 ## Summary
